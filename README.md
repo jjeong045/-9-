@@ -7,6 +7,6 @@
 * <a href="./웹 서버를 만드는 방법.md">웹 서버를 만드는 방법</a>
 * <a href="./HTML 필기.md">HTML</a>
 * <a href="./Bootstrap.md">Bootstrap</a>
-* <a href="./github 배포.md">github 배포</a>
+* <a href="./Github 배포.md">github 배포</a>
 
     
