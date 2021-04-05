@@ -75,4 +75,4 @@
   </ul>
   ```
  
-  --> <a href=./"index.html">Bootstrap 실습 링크</a>
+  --> <a href="./index.html">Bootstrap 실습 링크</a>
