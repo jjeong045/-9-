@@ -74,4 +74,5 @@
     <li role="presentation"><a href="#">Messages</a></li>
   </ul>
   ```
-
+ 
+  --> <a href=./"index.html">Bootstrap 실습 링크</a>
